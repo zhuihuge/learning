@@ -63,4 +63,9 @@ print("hello world")
 * 1
 - 2
 + 3
-## 四、列表
+## 四、链接
+方括号内写要显示的文字，后面的括号里写网址，如果原始文件内容编辑为：   
+     [link](https://github.com/zhuihuge/learning)    
+显示为如下效果：
+[link](https://github.com/zhuihuge/learning)  
+## 五、图片
