@@ -1,6 +1,6 @@
 # markdown文件编写教程
 如果不想按语法编写，可直接下载有道云笔记，新建markdown文件直接用上方菜单栏生成格式模板。菜单栏有如下功能
-![markdown-logo](https://www.zybuluo.com/static/img/logo.png)   
+![markdown](https://github.com/zhuihuge/learning/blob/main/note.PNG)   
 但是有道云笔记中的插入图片需要升级为会员，可自己上传图片插入。   
 markdown的基本语法总结如下   
 ## 一、标题设置
