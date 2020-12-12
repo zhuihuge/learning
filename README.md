@@ -83,12 +83,13 @@ print("hello world")
 显示为如下效果：
 [link](https://github.com/zhuihuge/learning)  
 ## 五、图片
-显示图片和链接类似，只需在前面加叹号，括号中也可写相对路径，如果原始文件内容编辑为：   
+显示图片和链接类似，只需在前面加叹号，如果原始文件内容编辑为：   
 ```
 ![markdown-logo](https://github.com/zhuihuge/learning/blob/main/timg.jpg)
 ```
 显示为如下效果：   
-![image](https://note.youdao.com/favicon.ico)
+![markdown-logo](https://github.com/zhuihuge/learning/blob/main/timg.jpg)   
+ps:图片需上传到github
 ## 六、表格
 分隔每列数据，第二行的|之间必须为减号，用冒号来表示对齐方向,如果原始文件内容编辑为：  
 ```
