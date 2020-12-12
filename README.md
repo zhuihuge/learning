@@ -84,7 +84,7 @@ print("hello world")
 ![markdown-logo](https://www.zybuluo.com/static/img/logo.png)
 ```
 显示为如下效果：   
-![markdown-logo](https://www.zybuluo.com/static/img/logo.png)
+![image](https://note.youdao.com/favicon.ico)
 ## 六、表格如果原始文件内容编辑为：  
 分隔每列数据，第二行的|之间必须为减号，用冒号来表示对齐方向,如果原始文件内容编辑为：  
 ```
