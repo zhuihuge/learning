@@ -85,7 +85,7 @@ print("hello world")
 ## 五、图片
 显示图片和链接类似，只需在前面加叹号，括号中也可写相对路径，如果原始文件内容编辑为：   
 ```
-![markdown-logo](https://www.zybuluo.com/static/img/logo.png)
+![markdown-logo](https://github.com/zhuihuge/learning/blob/main/timg.jpg)
 ```
 显示为如下效果：   
 ![image](https://note.youdao.com/favicon.ico)
